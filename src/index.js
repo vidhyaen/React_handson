@@ -1,12 +1,11 @@
 //dependencies
 import React from "react";
 import ReactDom from "react-dom";
-import Heading from "./components/Heading";
-import List from "./components/ListComponent";
+import App from "./Component/App";
+
 ReactDom.render(
   <div>
-    <Heading />
-    <List />
+    <App />
   </div>,
   document.getElementById("root")
 );
