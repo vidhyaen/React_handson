@@ -1,2 +1,2 @@
-# React_handson Traning 
+# React_handson
 Created with CodeSandbox
